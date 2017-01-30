@@ -1,0 +1,7 @@
+/target/
+/jsf-aula-core/target/
+/jsf-aula-jse/target/
+/jsf-aula-mobile/target/
+/jsf-aula-shared/target/
+/jsf-aula-web/target/
+.DS_Store
